@@ -24,16 +24,16 @@ and even supports natural language-based rendering with `imagine`.
 
 ```bash
 npm install -g ailang-cli
-
-### 2. Create a new project
-
+2. Create a New Project
+bash
+복사
+편집
 al setup my-first-project
 cd my-first-project
 al testrun
-
-### 3. Contributing
+🤝 Contributing
 We welcome PRs, issues, and suggestions!
 Help us evolve AILang into the truly human-centered programming language.
 
-### 4. License
+📜 License
 This project is licensed under the MIT License.
