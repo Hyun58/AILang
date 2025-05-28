@@ -1,0 +1,19 @@
+{
+  "name": "ailang-cli",
+  "version": "0.1.0",
+  "description": "CLI tool for AILang projects",
+  "main": "bin/al.js",
+  "bin": {
+    "al": "./bin/al.js"
+  },
+  "scripts": {
+    "test": "echo \"No tests yet\""
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1"
+  },
+  "author": "AILang Team",
+  "license": "MIT"
+}
