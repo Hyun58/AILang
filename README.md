@@ -38,3 +38,12 @@ Help us evolve AILang into the truly human-centered programming language.
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+## In short
+
+cd ailang-cli
+npm install
+npm link        
+
+al setup my-first-project
+cd my-first-project
