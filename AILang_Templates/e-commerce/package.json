@@ -1,0 +1,15 @@
+{
+  "name": "ailang-ecommerce-template",
+  "version": "1.0.0",
+  "description": "E-commerce template for AILang",
+  "main": "main.al",
+  "scripts": {
+    "test": "al test",
+    "build": "al build",
+    "deploy": "al deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "AILang Team",
+  "license": "MIT"
+}

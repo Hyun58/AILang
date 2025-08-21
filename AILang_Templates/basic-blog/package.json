@@ -1,0 +1,15 @@
+{
+  "name": "ailang-blog-template",
+  "version": "1.0.0",
+  "description": "Basic blog template for AILang",
+  "main": "main.al",
+  "scripts": {
+    "test": "al test",
+    "build": "al build",
+    "deploy": "al deploy"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "AILang Team",
+  "license": "MIT"
+}
